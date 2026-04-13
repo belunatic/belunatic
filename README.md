@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belunatic&label=Profile%20views&color=0e75b6&style=flat" alt="belunatic" /> </p>
 
-- 🌱 I’m currently learning **NextJS,Typescript, AI Agent**
+- 🌱 I’m currently diving deeper into **NextJS,Typescript, AI Agent**
 
 - 💬 Ask me about **Anime. NBA. Soccer. Gaming. Navigating life’s uncertainties.**
 
