@@ -1,8 +1,29 @@
 <h1 align="left">Hi 👋, I'm Abel Sila</h1>
-<h3 align="left">A passion Software engineer that uses tech to solve real-world problems and strive in a collaborative environment</h3>
+<h3 align="left">A passionate software engineer who uses technology to solve real-world problems and thrives in collaborative environments.</h3>
+<p>I’m curious by nature, ask thoughtful questions, and enjoy building things that are realiable and useful in daily user life</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belunatic&label=Profile%20views&color=0e75b6&style=flat" alt="belunatic" /> </p>
 
+### 🔭 What I’m Working On 
+- Exploring agentic frameworks and AI‑native development  
+- Improving my full‑stack skills with Next.js, TypeScript, and cloud services
+
+### ❤️ What I Care About
+- Writing clean, intentional code  
+- Learning with intention and asking the right questions  
+- Building things that help people in daily activities or their journey they are in 
+- Staying curious and improving a little every day
+
+### 💬 Ask me about
+- My favorite anime show and characters
+- Basketball (NBA) and Soccer (Liverpool)
+- Gaming console or what card game I am playing currently
+- Navigating life’s uncertainties.
+
+### 🤝 Let’s Build Something
+- If you’re working on something interesting or want to collaborate, feel free to reach out at **abelallisonsila@gmail.com** or my discord **Lunabel**
+
+<!--
 - 🌱 I’m currently diving deeper into **NextJS,Typescript, AI Agent**
 
 - 💬 Ask me about **Anime. NBA. Soccer. Gaming. Navigating life’s uncertainties.**
@@ -11,7 +32,10 @@
 
 - 📄 You can learn about my experience through **[my resume](https://belunatic.github.io/abelsila-portfolio/assets/Abel_Sila_Resume_2026_Jan.pdf)**
 
-- ⚡ Fun fact **The pronunciation of my name is both a blessing and a curse! LOL!**
+-->
+#### ⚡ Fun fact **The pronunciation of my name is both a blessing and a curse! LOL!**
+
+#### ✨ Always learning. Always building. Always curious.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
